@@ -15,6 +15,7 @@
 
 <h1> una pagina de prueba</h1>
 <p>  un parrafo de texto  </p>
+<h2>Seccion secundaria, creada por Rubén Alonso</h2>
 
 
 </body>
