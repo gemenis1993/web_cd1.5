@@ -13,9 +13,9 @@
 
 <body>
 
-<h1> una pagina de prueba</h1>
-<p>  un parrafo de texto modificado por Ruben Alonso </p>
-<h2>Seccion secundaria, creada por Rubén Alonso</h2>
+<h1> una pagina principal</h1>
+<p>Parrafo de texto modificado por Ruben Alonso </p>
+<h2>Seccion secundaria con texto, creada por Rubén Alonso</h2>
 
 
 </body>
